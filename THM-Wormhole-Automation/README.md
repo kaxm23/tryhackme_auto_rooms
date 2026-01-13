@@ -62,7 +62,7 @@ pip install requests
 target_url = 'http://10.10.xx.xx/terminal.php'
 
 
-python3 automate_script.py
+python3 thm_wormhole_auto.py
 
 
 [*] Discovering endpoints...
